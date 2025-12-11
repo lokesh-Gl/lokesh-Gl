@@ -82,19 +82,6 @@ Streamlit · FastAPI · Web Apps · Multilingual Chatbots
 ### 🔧 Tools  
 `Conda (Apple Silicon)` · `Jupyter` · `Git` · `VS Code`
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Lokesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
-
-</div>
-
----
 
 # 🔥 Current Goals
 
