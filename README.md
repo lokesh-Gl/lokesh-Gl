@@ -1,13 +1,13 @@
 <!-- Banner -->
-<h1 align="center">🌟 Lokesh — Machine Learning & AI Engineer</h1>
+<h1 align="center"> Lokesh — AI & Machine Learning Engineer</h1>
 <p align="center">
-  <b>Deep Learning | Computer Vision | AI for Finance & Trading | App Developer</b><br>
-  Building real-world AI systems with impact 🚀
+  <b>Deep Learning | Computer Vision | Machine Learning | Langchain | LangGarph</b><br>
+  Building real-world AI systems with impact 
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Final-year engineering student focused on **ML, Deep Learning & AI product development**
 - Experienced in **CV, Trading ML models, LLM fine-tuning, and multilingual AI apps**
@@ -71,7 +71,7 @@ Streamlit · FastAPI · Web Apps · Multilingual Chatbots
 # 🧰 Tech Stack
 
 ### 🗣 Languages  
-`Python` · `SQL` · `JavaScript` · `C++`
+`Python` · `SQL` · `JavaScript` 
 
 ### 🧠 ML / DL  
 `PyTorch` · `TensorFlow` · `Keras` · `OpenCV` · `scikit-learn`
