@@ -28,9 +28,6 @@ XGBoost · LightGBM · CatBoost · EDA · Hypothesis Testing · Feature Engineer
 ### 🔹 Computer Vision  
 Crop Disease Detection · Pest Detection · Thermal Animal Detection · Image Augmentation
 
-### 🔹 App Development  
-Streamlit · FastAPI · Web Apps · Multilingual Chatbots
-
 ---
 
 # 🏆 Highlighted Projects
